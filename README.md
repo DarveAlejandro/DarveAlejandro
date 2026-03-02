@@ -9,20 +9,20 @@ I build real-world systems that solve operational problems and automate workflow
 ---
 
 <!-- ABOUT ME -->
-<h2>🧠 About Me</h2>
+<h2> About Me</h2>
 
 <ul>
-  <li>💻 Computer Engineer with 3+ years working in production environments</li>
-  <li>🔧 Backend development with <strong>PHP & Laravel</strong></li>
-  <li>🗄️ Database design with <strong>MySQL</strong></li>
-  <li>⚙️ Focused on system architecture, clean code and business solutions</li>
-  <li>🏋️ Currently building a <strong>Gym Progress Management System</strong></li>
+  <li>Computer Engineer with 3+ years working in production environments</li>
+  <li>Backend development with <strong>PHP & Laravel</strong></li>
+  <li>Database design with <strong>MySQL</strong></li>
+  <li>Focused on system architecture, clean code and business solutions</li>
+  <li>Currently building a <strong>Gym Progress Management System</strong></li>
 </ul>
 
 ---
 
 <!-- WHAT I DO -->
-<h2>🚀 What I Do</h2>
+<h2> What I Do</h2>
 
 <ul>
   <li>Design and develop systems that replace manual processes</li>
@@ -34,7 +34,7 @@ I build real-world systems that solve operational problems and automate workflow
 ---
 
 <!-- TECH STACK -->
-<h2>🛠️ Tech Stack</h2>
+<h2> Tech Stack</h2>
 
 <h3>Backend</h3>
 <p>
@@ -59,9 +59,9 @@ Postman • Composer • NPM • VS Code
 ---
 
 <!-- FEATURED PROJECTS -->
-<h2>🏆 Featured Projects</h2>
+<h2> Featured Projects</h2>
 
-<h3>🏋️ Gym Progress Management System</h3>
+<h3> Gym Progress Management System</h3>
 <p>
 System for tracking users, workout routines and performance metrics.
 </p>
@@ -77,7 +77,7 @@ System for tracking users, workout routines and performance metrics.
 
 ---
 
-<h3>🏫 University Internal Systems</h3>
+<h3> University Internal Systems</h3>
 <p>
 Development and maintenance of internal platforms for academic and administrative processes in a production environment.
 </p>
@@ -91,7 +91,7 @@ Development and maintenance of internal platforms for academic and administrativ
 ---
 
 <!-- PHILOSOPHY -->
-<h2>🏗️ Engineering Mindset</h2>
+<h2> Engineering Mindset</h2>
 
 <p>
 I don’t just build interfaces — I design the logic behind the system.<br>
@@ -105,7 +105,7 @@ From operational problems to working software.
 
 <p>
 <a href="https://darve.dev" target="_blank">🌍 Portfolio</a><br>
-<a href="https://www.linkedin.com/" target="_blank">💼 LinkedIn</a><br>
+<a href="https://www.linkedin.com/in/darve-alejandro-alva-blanco-574097287/" target="_blank">💼 LinkedIn</a><br>
 <a href="mailto:alex.alvablanco@gmail.com">📧 Email</a>
 </p>
 
