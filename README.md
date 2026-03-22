@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Darve Alejandro</h1>
+<h1 align="center">Hi, I'm Darve Alejandro</h1>
 <h3 align="center">Backend Developer | Laravel & PHP | Process Automation Enthusiast</h3>
 
 <p align="center">
